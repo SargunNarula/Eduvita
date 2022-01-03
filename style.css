@@ -124,3 +124,9 @@ footer{
     height: 10vh;
     background-color: #e6e8e6;
 }
+
+.badge{
+    font-size: 20px !important;
+    padding: 2% !important;
+    margin: 2% !important;
+}
